@@ -224,13 +224,7 @@ public class Emp {
 
 ---
 
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-## 📧 Contact
-For questions or support, reach out via [email@example.com](mailto:email@example.com).
 
 
 
